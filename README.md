@@ -7,7 +7,7 @@
 
 ##### Introduction
 
-The folder contains some interesting programs. Some of them may be useful in the daily life. Most of them are written in Java, one of my favorite programming languages.
+The folder contains some interesting programs. Some of them may be useful in the daily life. Most of them are written in Java, one of my favorite programming languages. Others may be written in Python, C++ and so on.
 
 I am not very good at Java. But, it's the first OOP languages I have learned, also, learned by myself.
 
