@@ -33,7 +33,7 @@ A program for searching the ticket from 12306
 
 ---
 ##### Run
-###### For Java
+** For Java**
 I edit the code in the IDE of eclipse with Java JDK8, but, I have uploaded only source codes of the project. So, if you want to run it in other IDE, you need to copy these files to the path of "src". 
 
 If you have only installed the Java JDK, you can use the command to run the program. Using "javac" to compile the code, the class file will generate. And then, using "java" to run the main class. Like this:
@@ -44,8 +44,8 @@ java main_class
 ```
 "main_class" refers to the main class of the java. 
 
-###### For Python
+** For Python**
 The programs written in Python is based on the version of 3.6. Others dependent modules should be installed before you run it.
 
-###### For C++
+** For C++**
 The programs witten in C++ can be compiled with any C++ compiler such as MinGW. I do these jobs with the version MinGW 6.3.0
