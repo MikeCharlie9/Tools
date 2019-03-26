@@ -22,13 +22,21 @@ I still have a lot to say. But, so much for this. If you are interested, I will 
 
 A tool for backuping the file.
 
+- ChattingRoom
+
+A communication program which allows several people chat in a LAN
+
+- Game2048
+
+A game called 2048 in C++
+
+- Train_tickets
+
+A program for searching the ticket from 12306
+
 - file_process
 
 A program for copying the file from the source path to destination path
-
-- Train_ticket
-
-A program for searching the ticket from 12306
 
 
 ---
