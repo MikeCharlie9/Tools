@@ -38,6 +38,9 @@ A program for searching the ticket from 12306
 
 A program for copying the file from the source path to destination path
 
+- genGrade
+
+A program for generating the grade of the racing competition
 
 ---
 ##### Run
