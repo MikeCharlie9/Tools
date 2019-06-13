@@ -30,6 +30,10 @@ A communication program which allows several people chat in a LAN
 
 A game called 2048 in C++
 
+- ShuDu
+
+A program to solve Sudoku
+
 - Train_tickets
 
 A program for searching the ticket from 12306
