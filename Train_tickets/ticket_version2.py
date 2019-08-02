@@ -94,8 +94,8 @@ if __name__ == "__main__":
         from_station = stations[from_chinese]
         to_station = stations[to_chinese]
         print("车站简称："+from_station, "->", to_station)
-        url ="https://kyfw.12306.cn/otn/leftTicket/queryZ?leftTicketDTO.train_date="+querydate+"&leftTicketDTO.from_station="+from_station+"&leftTicketDTO.to_station="+to_station+"&purpose_codes=ADULT"
-
+        url ="https://kyfw.12306.cn/otn/leftTicket/query?leftTicketDTO.train_date="+querydate+"&leftTicketDTO.from_station="+from_station+"&leftTicketDTO.to_station="+to_station+"&purpose_codes=ADULT"
+        # url ="https://kyfw.12306.cn/otn/leftTicket/queryZ?leftTicketDTO.train_date="+querydate+"&leftTicketDTO.from_station="+from_station+"&leftTicketDTO.to_station="+to_station+"&purpose_codes=ADULT"
         header = {
             "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
         }
